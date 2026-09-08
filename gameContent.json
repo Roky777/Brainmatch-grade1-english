@@ -3,13 +3,13 @@
   "content": {
     "science": {
       "level1": { "pairs": [
-        { "a": "Hand", "image": "images/grade1-english-body-sound/hand.png", "imageAlt": "Open hand", "imageClass": "body-part-image" },
+        { "a": "Hand", "image": "images/grade1-english-body-sound/hand.webp", "imageAlt": "Open hand", "imageClass": "body-part-image" },
         { "a": "Eye", "image": "images/grade1-english-body-sound/eye.svg", "imageAlt": "Eye", "imageClass": "body-part-image" },
         { "a": "Ear", "image": "images/grade1-english-body-sound/ear.svg", "imageAlt": "Ear", "imageClass": "body-part-image" },
         { "a": "Mouth", "image": "images/grade1-english-body-sound/mouth.svg", "imageAlt": "Mouth", "imageClass": "body-part-image" }
       ] },
       "level2": { "pairs": [
-        { "a": "Clap", "image": "images/grade1-english-body-sound/hand.png", "imageAlt": "Hand used to clap", "imageClass": "body-part-image" },
+        { "a": "Clap", "image": "images/grade1-english-body-sound/hand.webp", "imageAlt": "Hand used to clap", "imageClass": "body-part-image" },
         { "a": "See", "image": "images/grade1-english-body-sound/eye.svg", "imageAlt": "Eye used to see", "imageClass": "body-part-image" },
         { "a": "Hear", "image": "images/grade1-english-body-sound/ear.svg", "imageAlt": "Ear used to hear", "imageClass": "body-part-image" },
         { "a": "Speak", "image": "images/grade1-english-body-sound/mouth.svg", "imageAlt": "Mouth used to speak", "imageClass": "body-part-image" }
